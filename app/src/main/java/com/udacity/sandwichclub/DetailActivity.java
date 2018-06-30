@@ -24,6 +24,7 @@ public class DetailActivity extends AppCompatActivity {
     TextView alsoNown;
 
 
+    
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
